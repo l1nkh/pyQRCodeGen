@@ -1,5 +1,3 @@
-Script that creaetes any number of QRCodes based off an input file.
-
 # QR Code Generator
 
 This is a script that creates QR Codes based off a json file, however it fulfills
